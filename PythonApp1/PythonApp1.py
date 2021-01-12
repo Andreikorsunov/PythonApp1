@@ -1,0 +1,1 @@
+print("Nu tipo Andrei")
